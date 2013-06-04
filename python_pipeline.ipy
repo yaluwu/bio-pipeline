@@ -13,7 +13,7 @@ for i in range(8):
 imshow(h)
 colorbar()
 
-f = open('20130524 2760 1 2 3 later.txt')
+f = open('2013-05-24-2760-2763.txt')
 g = f.readlines()
 f.close()
 
