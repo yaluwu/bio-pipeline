@@ -1,4 +1,5 @@
 # Authored by Aron Ahmadia
+# Who is totally awesome
 
 %pylab 
 import numpy as np
