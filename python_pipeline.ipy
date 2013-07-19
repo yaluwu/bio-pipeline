@@ -1,3 +1,5 @@
+# Authored by Aron Ahmadia
+
 %pylab 
 import numpy as np
 
